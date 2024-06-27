@@ -1,0 +1,14 @@
+D:\Projects\nap_payment_system\bin\Debug\net6.0\nap_payment_system.exe
+D:\Projects\nap_payment_system\bin\Debug\net6.0\nap_payment_system.deps.json
+D:\Projects\nap_payment_system\bin\Debug\net6.0\nap_payment_system.runtimeconfig.json
+D:\Projects\nap_payment_system\bin\Debug\net6.0\nap_payment_system.dll
+D:\Projects\nap_payment_system\bin\Debug\net6.0\nap_payment_system.pdb
+D:\Projects\nap_payment_system\obj\Debug\net6.0\nap_payment_system.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\nap_payment_system\obj\Debug\net6.0\nap_payment_system.AssemblyInfoInputs.cache
+D:\Projects\nap_payment_system\obj\Debug\net6.0\nap_payment_system.AssemblyInfo.cs
+D:\Projects\nap_payment_system\obj\Debug\net6.0\nap_payment_system.csproj.CoreCompileInputs.cache
+D:\Projects\nap_payment_system\obj\Debug\net6.0\nap_payment_system.dll
+D:\Projects\nap_payment_system\obj\Debug\net6.0\refint\nap_payment_system.dll
+D:\Projects\nap_payment_system\obj\Debug\net6.0\nap_payment_system.pdb
+D:\Projects\nap_payment_system\obj\Debug\net6.0\nap_payment_system.genruntimeconfig.cache
+D:\Projects\nap_payment_system\obj\Debug\net6.0\ref\nap_payment_system.dll
